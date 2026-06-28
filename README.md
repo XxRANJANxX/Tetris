@@ -1,6 +1,6 @@
 # Tetris — Java / Swing
 
-A desktop Tetris implementation in pure Java using Swing, written to match the resume project description.
+A desktop Tetris implementation in pure Java using Swing . 
 
 ## Requirements
 - Java 8 or higher (`java -version` to check)
