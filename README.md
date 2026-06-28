@@ -7,23 +7,10 @@ A desktop Tetris implementation in pure Java using Swing, written to match the r
 
 ## Build & Run
 
-### Option 1 — Shell script (macOS/Linux)
-```bash
-chmod +x run.sh
-./run.sh
-```
-
-### Option 2 — Manual
-```bash
-mkdir -p out
-javac -d out src/tetris/*.java
-java -cp out tetris.TetrisWindow
-```
-
-### Option 3 — IDE (IntelliJ / Eclipse / VS Code)
+###   IDE (IntelliJ / Eclipse / VS Code)
 1. Open the project root folder
 2. Mark `src/` as the Sources Root
-3. Run `tetris.TetrisWindow`
+3. Run the main class in `tetris.TetrisWindow`
 
 ---
 
